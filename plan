@@ -1,0 +1,12 @@
+item
+
+customer
+    [
+        { // customer 1 details } , 
+        { // customer 2 details } , 
+    ]
+customer invoice
+
+vendor
+vendor invoice
+
