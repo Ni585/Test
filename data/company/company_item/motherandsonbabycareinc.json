@@ -1,0 +1,274 @@
+{
+    "itemList": [
+        {
+          "Item Name": "L1 LittleAngel-PopularPants",
+          "HSN/SAC": 99112495,
+          "Rate": 14,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 1170,
+          "Purchase Rate": 7.95
+        },
+        {
+          "Item Name": "XL1 LittleAngel-PopularPants",
+          "HSN/SAC": 91124108,
+          "Rate": 16,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 480,
+          "Purchase Rate": 9.08
+        },
+        {
+          "Item Name": "S5 LittleAngel-PopularPants",
+          "HSN/SAC": 91124317,
+          "Rate": 45,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 117,
+          "Purchase Rate": 26.47
+        },
+        {
+          "Item Name": "M5 LittleAngel-PopularPants",
+          "HSN/SAC": 91124387,
+          "Rate": 55,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 237,
+          "Purchase Rate": 32.35
+        },
+        {
+          "Item Name": "L5 LittleAngel-PopularPants",
+          "HSN/SAC": 91124423,
+          "Rate": 60,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 177,
+          "Purchase Rate": 35.3
+        },
+        {
+          "Item Name": "XL4 LittleAngel-PopularPants",
+          "HSN/SAC": 91124451,
+          "Rate": 64,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 112,
+          "Purchase Rate": 37.65
+        },
+        {
+          "Item Name": "NB10 LittleAngel-ExtraDryDiaperNewBorn",
+          "HSN/SAC": 91124666,
+          "Rate": 99,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 100,
+          "Purchase Rate": 55.59
+        },
+        {
+          "Item Name": "S10 LittleAngel-PopularPantsBaby",
+          "HSN/SAC": 91124697,
+          "Rate": 99,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 82,
+          "Purchase Rate": 58.24
+        },
+        {
+          "Item Name": "M8 LittleAngel-PopularPantsBaby",
+          "HSN/SAC": 91124697,
+          "Rate": 99,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 70,
+          "Purchase Rate": 58.24
+        },
+        {
+          "Item Name": "L7 LittleAngel-PopularPantsBaby",
+          "HSN/SAC": 91124669,
+          "Rate": 95,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 82,
+          "Purchase Rate": 55.89
+        },
+        {
+          "Item Name": "S40 LittleAngel-PopularPants",
+          "HSN/SAC": 11242653,
+          "Rate": 399,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 21,
+          "Purchase Rate": 221.43
+        },
+        {
+          "Item Name": "M32 LittleAngel-PopularPants",
+          "HSN/SAC": 11242653,
+          "Rate": 399,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 23,
+          "Purchase Rate": 221.43
+        },
+        {
+          "Item Name": "L28 LittleAngel-PopularPants",
+          "HSN/SAC": 11242653,
+          "Rate": 399,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 13,
+          "Purchase Rate": 221.43
+        },
+        {
+          "Item Name": "XL24 LittleAngel-PopularPants",
+          "HSN/SAC": 11242653,
+          "Rate": 399,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 13,
+          "Purchase Rate": 221.43
+        },
+        {
+          "Item Name": "S78 LittleAngel-PopularPants",
+          "HSN/SAC": 11245028,
+          "Rate": 999,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 5,
+          "Purchase Rate": 419.64
+        },
+        {
+          "Item Name": "M74 LittleAngel-PopularPants",
+          "HSN/SAC": 11245028,
+          "Rate": 999,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 5,
+          "Purchase Rate": 419.64
+        },
+        {
+          "Item Name": "L62 LittleAngel-PopularPants",
+          "HSN/SAC": 11245028,
+          "Rate": 999,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 5,
+          "Purchase Rate": 419.64
+        },
+        {
+          "Item Name": "M10 LibertyAdult-EcoPants",
+          "HSN/SAC": 11242157,
+          "Rate": 550,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 15,
+          "Purchase Rate": 180
+        },
+        {
+          "Item Name": "L10 LibertyAdult-EcoPants",
+          "HSN/SAC": 11242276,
+          "Rate": 600,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 22,
+          "Purchase Rate": 190
+        },
+        {
+          "Item Name": "XL10 LibertyAdult-EcoPants",
+          "HSN/SAC": 11242456,
+          "Rate": 650,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 23,
+          "Purchase Rate": 205
+        },
+        {
+          "Item Name": "M10 LibertyPopular-AdultDiaper",
+          "HSN/SAC": 11242037,
+          "Rate": 525,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 22,
+          "Purchase Rate": 170
+        },
+        {
+          "Item Name": "L10 LibertyPopular-AdultDiaper",
+          "HSN/SAC": 11242157,
+          "Rate": 575,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 24,
+          "Purchase Rate": 180
+        },
+        {
+          "Item Name": "Wipe72 LittleAngel-DailyCareBabyWipe-WithLid",
+          "HSN/SAC": 91124505,
+          "Rate": 99,
+          "Inter State Tax Rate": 18,
+          "Opening Stock": 0,
+          "Stock On Hand": 228,
+          "Purchase Rate": 40
+        },
+        {
+          "Item Name": "S1 LittleAngel-PopularPants",
+          "HSN/SAC": 99112465,
+          "Rate": 10,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 2360,
+          "Purchase Rate": 5.45
+        },
+        {
+          "Item Name": "M1 LittleAngel-PopularPants",
+          "HSN/SAC": 99112478,
+          "Rate": 12,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 2360,
+          "Purchase Rate": 6.54
+        },
+        {
+          "Item Name": "R6 Everteen-235-PeriodCare",
+          "HSN/SAC": 91124160,
+          "Rate": 25,
+          "Inter State Tax Rate": 0,
+          "Opening Stock": 0,
+          "Stock On Hand": 288,
+          "Purchase Rate": 14.97
+        },
+        {
+          "Item Name": "XL6 Everteen-285-PeriodCare",
+          "HSN/SAC": 91124222,
+          "Rate": 35,
+          "Inter State Tax Rate": 0,
+          "Opening Stock": 0,
+          "Stock On Hand": 383,
+          "Purchase Rate": 20.96
+        },
+        {
+          "Item Name": "XL18 Everteen-285-PeriodCare",
+          "HSN/SAC": 91124616,
+          "Rate": 100,
+          "Inter State Tax Rate": 0,
+          "Opening Stock": 0,
+          "Stock On Hand": 108,
+          "Purchase Rate": 59.9
+        },
+        {
+          "Item Name": "XXL40 Everteen-320-PeriodCare",
+          "HSN/SAC": 91124128,
+          "Rate": 399,
+          "Inter State Tax Rate": 0,
+          "Opening Stock": 0,
+          "Stock On Hand": 40,
+          "Purchase Rate": 120
+        },
+        {
+          "Item Name": "XL10 LibertyPopular-AdultDiaper",
+          "HSN/SAC": 11242466,
+          "Rate": 650,
+          "Inter State Tax Rate": 12,
+          "Opening Stock": 0,
+          "Stock On Hand": 24,
+          "Purchase Rate": 205
+        }
+    ]
+}
