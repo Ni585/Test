@@ -1,12 +1,70 @@
-item
 
+
+
+item_group
+item 
+
+CSV1 - 
+    item_id | item_group | item_name | ..... 
+
+
+CSV2 (CSV1_audit) - (W only)
+    item_id | audit_number | .. same attr 
+
+CSV3 -
+    bill_id | bill ...
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company
+    [
+        { // company 1 details } , 
+        { // company 2 details } , 
+    ]
+company_item
+    company_id
+        company_item_1
+            {
+                // item details
+                // audit
+            } 
+        
 customer
     [
         { // customer 1 details } , 
         { // customer 2 details } , 
     ]
 customer invoice
+    customer_id
+        invoice
+            customer_invoice_1
+                {
+                    item: [
+                        {
+                            id: item_id,
+                            price: ..  
+                        }
+                    ],
+                    payment: {
 
+                    }
+                }
 vendor
 vendor invoice
 
